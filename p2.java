@@ -22,5 +22,6 @@ public class p2
         System.out.println("The digit was found: " + c + " number of times");
         else
         System.out.println("The digit was not found in the number");
+        sc.close();
     }
 }
