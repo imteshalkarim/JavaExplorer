@@ -22,6 +22,7 @@ public class p3
         System.out.println("There are no odd digits in this number");
         else
         System.out.println("Product of odd digits = " +p);
+        sc.close();
     }
 }
 
