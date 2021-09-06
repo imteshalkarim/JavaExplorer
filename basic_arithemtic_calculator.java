@@ -123,7 +123,8 @@ else if(ch==4)
         System.out.println("Remainder= "+rem);
 }
 else{
-System.exit(0);
+System.out.println("Invalid input.");
+repitter();
 }
 }
     public static void main(String[] args)
