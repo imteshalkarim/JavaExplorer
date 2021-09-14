@@ -1,6 +1,6 @@
 /* A program in JAVA to enter a number and reverse it along with checking if the number is a palindrome or not. */
 import java.util.*;
-public class reverse_number
+public class palindrome_number
 {
     public static void main(String[] args)
     {
