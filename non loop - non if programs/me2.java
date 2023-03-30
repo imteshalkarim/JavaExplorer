@@ -10,3 +10,4 @@ public class me2 {
       System.out.println("Address: " + address);
     }
   }
+/* In this program, we declare three variables to store your name, age, and address. Then, we use the System.out.print() method to display the name and age on the same line, followed by the System.out.println() method to display the address on the next line. */
