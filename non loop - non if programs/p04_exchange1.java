@@ -1,5 +1,5 @@
 //Write a program to store numbers in two variables a and b. Exchange the value of a and b by taking the help of a third variable and display the values of a and b
-public class exchange1 {
+public class p04_exchange1 {
     public static void main(String[] args) {
       // Initialize variables a and b with values.
       int a = 10;

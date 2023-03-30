@@ -1,5 +1,5 @@
 //Write a program named sum1 to print the sum and average of three given numbers
-public class sum1 {
+public class p03_sum1 {
     public static void main(String[] args) {
       int num1 = 10;
       int num2 = 20;
