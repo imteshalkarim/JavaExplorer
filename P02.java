@@ -1,4 +1,4 @@
-//Display your name, age and address in one line but with different print functions
+//Write a program to display your name, age and address in one line but with different print functions
 public class P02 {
   public static void main(String[] args) {
     String name = "atomicswas";
