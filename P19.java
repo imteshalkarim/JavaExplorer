@@ -1,7 +1,8 @@
-//Write a program named p19_temperature to enter temperature in fahrenheit and convert it to celsius.
+
+//Write a program to enter temperature in fahrenheit and convert it to celsius.
 import java.util.Scanner;
 
-public class p19_temperature {
+public class P19 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -18,4 +19,8 @@ public class p19_temperature {
         input.close();
     }
 }
-/*The program prompts the user to enter the temperature in Fahrenheit, converts it to Celsius using the formula (F - 32) * 5/9, and then displays the temperature in Celsius. */
+/*
+ * The program prompts the user to enter the temperature in Fahrenheit, converts
+ * it to Celsius using the formula (F - 32) * 5/9, and then displays the
+ * temperature in Celsius.
+ */

@@ -1,7 +1,8 @@
-//Write a program named p15_sum_ascii to accept two characters and print the sum of their ascii values.
+
+//Write a program to accept two characters and print the sum of their ascii values.
 import java.util.Scanner;
 
-public class p15_sum_ascii {
+public class P15 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -22,9 +23,13 @@ public class p15_sum_ascii {
         input.close();
     }
 }
-/*Here's how the program works:
-
-It prompts the user to enter the first character.
-It prompts the user to enter the second character.
-It calculates the sum of the ASCII values of the characters using the + operator.
-It displays the sum of the ASCII values of the characters using the println() method. */
+/*
+ * Here's how the program works:
+ * 
+ * It prompts the user to enter the first character.
+ * It prompts the user to enter the second character.
+ * It calculates the sum of the ASCII values of the characters using the +
+ * operator.
+ * It displays the sum of the ASCII values of the characters using the println()
+ * method.
+ */
