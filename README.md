@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project 8341 </a> | </h1>
+<body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project 8341 </a></h1>
 <br>
 <h3 align="center">⌛ TL;DR? - Straight to the <a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">index</a></h3>
 <br>
