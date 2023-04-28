@@ -4,7 +4,7 @@
 </head>
 <body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project Amorphous </a></h1>
 <br>
-<h3 align="center"><a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">🏁 Index - List of Programs</a></h3>
+<h2 align="left"><a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">🏁 Index - List of Programs</a></h2>
 <br>
 <h2> 🙏 Namaste </h2>
 <p>Welcome to my GitHub repository where you can find a collection of Java programs for beginners and intermediate learners. I am a self-hosted open source teacher and I created this repository to help those who want to learn basic Java programming concepts by themselves.
@@ -44,12 +44,11 @@ On a sidenote, this project could be of exemplary benefit to students pursuing j
 
 ## 🫶 Support this project's development
 
-Support me in my endeavour of sustaining and maintaining Project 8341 and make computer education accessible and open to all without any paywalls or reservations and become a [sponsor](https://github.com/sponsors/imteshalkarim) to the project.
+Support me in my endeavour of sustaining and maintaining Project Amorphous and make computer education accessible and open to all without any paywalls or reservations and become a [sponsor](https://github.com/sponsors/imteshalkarim) to the project.
 
 or alternatively,
 
 - UPI (for Indian sponsors) - imteshal.mik-1@okhdfc / imteshal.mik-1@okaxis
-- [Paypal](https://paypal.me/imteshalkarim?country.x=IN&locale.x=en_GB)
 - Buy me a coffee - 
             <div align="left">
             <a href="https://www.buymeacoffee.com/imteshalkarim" target="_blank" style="display: inline-block;">
