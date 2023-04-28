@@ -2,9 +2,9 @@
 <html>
 <head>
 </head>
-<body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project 8341 </a></h1>
+<body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project Amorphous </a></h1>
 <br>
-<h3 align="center">⌛ TL;DR? - Straight to the <a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">index</a></h3>
+<h3 align="center"><a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">🏁 Index - List of Programs</a></h3>
 <br>
 <h2> 🙏 Namaste </h2>
 <p>Welcome to my GitHub repository where you can find a collection of Java programs for beginners and intermediate learners. I am a self-hosted open source teacher and I created this repository to help those who want to learn basic Java programming concepts by themselves.
