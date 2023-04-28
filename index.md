@@ -1,16 +1,12 @@
-# Java Explorer - Project 8341
+# Java Explorer - Project Amorphous
 
 Java Explorer is an open-source repository aimed at making computer science education accessible to everyone. As part of Project 8341, Java Explorer is the first step towards creating a series of educational resources that will be available to all. With Java Explorer, learners of all skill levels can explore Java programming concepts and take on programming.
 
-## 🫶 Support Our Work
-
-If you find Java Explorer or any of our other educational resources helpful, please consider supporting my work by becoming a sponsor. Your sponsorship will help cover the costs of hosting, maintaining, and developing these resources, and will allow me to continue making computer science education accessible to all. Thank you for your support!
-
-## Programs:
-
-Here is a list of programs available in the Java Explorer repository arranged in order of increasing difficulty and complexity:
-
-- [Program 1 - Write a program in java to display name, school and class in different lines](https://github.com/imteshalkarim/JavaExplorer/blob/main/P01.java)
+## 📃 List of Programs:
+<details>
+<summary><h3>🔰 Beginner Level - Click to expand/collapse<h3></summary>
+  
+- [1. Display name, school and class in different lines](https://github.com/imteshalkarim/JavaExplorer/blob/main/P01.java)
 - [Program 2 - Write a program to display your name, age and address in one line but with different print functions](https://github.com/imteshalkarim/JavaExplorer/blob/main/P02.java)
 - [Program 3 - Write a program to print the sum and average of three given numbers](https://github.com/imteshalkarim/JavaExplorer/blob/main/P03.java)
 - [Program 4 - Write a program to store numbers in two variables a and b. Exchange the value of a and b by taking the help of a third variable and display the values of a and b](https://github.com/imteshalkarim/JavaExplorer/blob/main/P04.java)
@@ -30,6 +26,12 @@ Here is a list of programs available in the Java Explorer repository arranged in
 - [Program 18 - Write a program to enter quantity sold and price per unit. Display the sales price after giving 2% discount](https://github.com/imteshalkarim/JavaExplorer/blob/main/P18.java)
 - [Program 19 - Write a program to enter temperature in fahrenheit and convert it to celsius](https://github.com/imteshalkarim/JavaExplorer/blob/main/P19.java)
 - [Program 20 - Write a program to enter distance covered and time taken by a car and calculate its speed](https://github.com/imteshalkarim/JavaExplorer/blob/main/P20.java)
+</details>
 
 
 I am continuously working to add more programs to the Java Explorer repository, so be sure to check back often.
+
+## 🫶 Support my Work
+
+If you find Java Explorer or any of my other educational resources helpful, please consider supporting my work by becoming a sponsor. Your sponsorship will help cover the costs of hosting, maintaining, and developing these resources, and will allow me to continue making computer science education accessible to all. Thank you for your support!
+
