@@ -2,9 +2,17 @@
 <html>
 <head>
 </head>
-<body><h1>JavaExplorer | <a href="https://github.com/sponsors/imteshalkarim">Project Amorphous </a></h1>
+<body>
+	<p align="center">
+		<a href="https://github.com/sponsors/imteshalkarim">
+		<img src="https://github.com/imteshalkarim/JavaExplorer/blob/main/Resources/JAX%20git%20Banner.png" alt="Project Banner">
+		</a>
+	</p>
 <br>
-<h2 align="left"><a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">🏁 Index - List of Programs</a></h2>
+	<p align="center"><b> Welcome to JAX (Java Explorer)</b><br>
+	Scroll down to learn about the project or jump to <a href="https://github.com/imteshalkarim/JavaExplorer/blob/main/index.md">Index - List of Programs</a>
+<br>
+<br>
 <br>
 <h2> 🙏 Namaste </h2>
 <p>Welcome to my GitHub repository where you can find a collection of Java programs for beginners and intermediate learners. I am a self-hosted open source teacher and I created this repository to help those who want to learn basic Java programming concepts by themselves.
