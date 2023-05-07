@@ -2,7 +2,8 @@
 //Write a program to enter side of a cube and display its surface area and volume.
 import java.util.Scanner;
 
-public class P23_CubeProperties {
+public class P23 
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
