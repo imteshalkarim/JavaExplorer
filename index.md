@@ -29,6 +29,8 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [18. Enter quantity sold and price per unit. Display the sales price after giving 2% discount](https://github.com/imteshalkarim/JavaExplorer/blob/main/P18.java)
 - [19. Enter temperature in fahrenheit and convert it to celsius](https://github.com/imteshalkarim/JavaExplorer/blob/main/P19.java)
 - [20. Enter distance covered and time taken by a car and calculate its speed](https://github.com/imteshalkarim/JavaExplorer/blob/main/P20.java)
+- [21. Enter basic salary of an employee. Calculate and display the following: DA = 25% of basic salary, HRA = 15% of basic salary, PF = 8.33% of basic salary, Net pay = basic salary + DA + HRA, Gross pay = Net pay - PF](https://github.com/imteshalkarim/JavaExplorer/blob/main/P21.java)
+- [22. enter the values of coefficients of a quadratic equation ax^2+bx+c=0. Find the roots of the equation and display them (https://github.com/imteshalkarim/JavaExplorer/blob/main/P21.java)  
 </details>
 
 
