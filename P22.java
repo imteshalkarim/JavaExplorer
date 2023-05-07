@@ -1,6 +1,6 @@
 
 /*Write a program to enter the values of coefficients of a quadratic equation ax^2+bx+c=0
-Find the roots of the equation and siaplay them.*/
+Find the roots of the equation and display them.*/
 import java.util.Scanner;
 
 public class P22 {
