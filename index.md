@@ -32,6 +32,7 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [21. Enter basic salary of an employee. Calculate and display the following: DA = 25% of basic salary, HRA = 15% of basic salary, PF = 8.33% of basic salary, Net pay = basic salary + DA + HRA, Gross pay = Net pay - PF](https://github.com/imteshalkarim/JavaExplorer/blob/main/P21.java)
 - [22. Enter the values of coefficients of a quadratic equation ax^2+bx+c=0. Find the roots of the equation and display them.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P22.java)
 - [23. Enter side of a cube and display its surface area and volume.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P23.java)
+- [24. Accept principal, rate of interest and time period. Calculate and display simple interest.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P24.java)
 </details>
 
 
