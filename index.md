@@ -33,6 +33,12 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [22. Enter the values of coefficients of a quadratic equation ax^2+bx+c=0. Find the roots of the equation and display them.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P22.java)
 - [23. Enter side of a cube and display its surface area and volume.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P23.java)
 - [24. Accept principal, rate of interest and time period. Calculate and display simple interest.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P24.java)
+- [25. Enter a 4-digit number and display the sum of its first and last digit.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P25.java)
+- [26. Enter area of a circle and display its radius, diameter and circumference](https://github.com/imteshalkarim/JavaExplorer/blob/main/P26.java)
+- [27. Enter 3 sides of a triangle and display its area and perimeter](https://github.com/imteshalkarim/JavaExplorer/blob/main/P27.java)
+- [28. Enter principal, rate of interest and number of years to calculate and display the compound interest.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P28.java)
+- [29. Enter distance in km and display it in metres and cm.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P29.java)
+- [30. Enter a 3 digit number and display its digits in separate lines.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P30.java)
 </details>
 
 
