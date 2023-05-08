@@ -2,7 +2,7 @@
 //Write a program to input a year and check if it is a leap year or not using ternary operator.
 import java.util.Scanner;
 
-public class P36 {
+public class P35 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
