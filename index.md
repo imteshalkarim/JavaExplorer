@@ -39,6 +39,11 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [28. Enter principal, rate of interest and number of years to calculate and display the compound interest.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P28.java)
 - [29. Enter distance in km and display it in metres and cm.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P29.java)
 - [30. Enter a 3 digit number and display its digits in separate lines.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P30.java)
+- [31. Enter a 3 digit number and display it in reverse.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P31.java)
+- [32. Enter a 3 digit number and display the sum of its digits.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P32.java)
+- [33. Accept a number and check if it is even or odd by using conditional/ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P33.java)
+- [34. Enter a number and check if it is positive or negative using conditional/ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P34.java)
+- [35. Input a year and check if it is a leap year or not using ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P35.java)
 </details>
 
 
