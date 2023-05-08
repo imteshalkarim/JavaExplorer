@@ -44,6 +44,8 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [33. Accept a number and check if it is even or odd by using conditional/ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P33.java)
 - [34. Enter a number and check if it is positive or negative using conditional/ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P34.java)
 - [35. Input a year and check if it is a leap year or not using ternary operator.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P35.java)
+- [36. Enter length, breadth and height of a cuboid and calculate its volume.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P36.java)
+- [37. Accept area and length of a rectangular field. Calculate cost of fencing it at Rs.15 per metre.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P37.java)
 </details>
 
 
