@@ -52,9 +52,7 @@ Java Explorer is an open-source repository aimed at making computer science educ
 - [41. Accept two sides of a rectangle and display the length of its diagonals.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P41.java)
 - [42.In an election two candidates A and B contested. A got 60% of the votes. Write a program to accept the total number of votes and display the number of votes scored by each candidate.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P42.java)
 - [43. Enter time in minutes and display it in hours and minutes.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P43.java)
-- [44. Display the following:
- * 1. Perimeter of a circle whose length is 45 and breadth is 30.
- * 2. Area and circumference of a circle whose diameter is 21.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P44.java)
+- [44. Display the following: 1. Perimeter of a circle whose length is 45 and breadth is 30 2. Area and circumference of a circle whose diameter is 21.](https://github.com/imteshalkarim/JavaExplorer/blob/main/P44.java)
 - [45. Store the name of two students and their respective heights. Display the name of the tallest student. ](https://github.com/imteshalkarim/JavaExplorer/blob/main/P45.java)
 </details>
 
